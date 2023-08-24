@@ -1,3 +1,3 @@
-"# yelp_camp" 
-"# yelp_camp" 
-"# yelp_camp" 
+# Intro
+
+Yalp Camp is a app buiding with node.js, ejs and using MongoDB as database. 
